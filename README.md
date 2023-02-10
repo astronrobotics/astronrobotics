@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astronrobotics
+- 👋 Hi, I’m @AkhilGeorge
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on AI and ML
